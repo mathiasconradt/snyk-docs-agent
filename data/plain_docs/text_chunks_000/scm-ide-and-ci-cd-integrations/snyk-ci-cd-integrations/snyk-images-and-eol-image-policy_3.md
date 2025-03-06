@@ -1,0 +1,1 @@
+To ensure you are using the most current and secure images, monitor the software you use. When a product announces an image version as EOL, switch to a Snyk image that contains supported software where appropriate.

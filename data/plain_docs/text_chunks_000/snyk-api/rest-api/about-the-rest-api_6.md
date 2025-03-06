@@ -1,0 +1,2 @@
+There is a limit of 1620 requests per minute, per API key. All requests above the limit will get a response with the status code 429 - Too many requests until requests stop for the duration of the rate-limiting interval (one minute).
+From time to time, Snyk may introduce new rate limits to maintain overall system health. This is not considered a breaking change. All clients are expected to handle the 429 responses correctly and such requests can be retried later safely.

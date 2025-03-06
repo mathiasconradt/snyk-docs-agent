@@ -1,0 +1,1 @@
+This variable can be used to customize attributes based on whether the PR is a backlog PR, for example, opened to fix known vulnerabilities already in the Project or repository. In the example below you can see that the description of the PR will only show if it is a backlog PR.

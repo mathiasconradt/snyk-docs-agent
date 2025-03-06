@@ -1,0 +1,1 @@
+Review the variables used in the template and ensure they match the supported variables in the Variables list and description. If a variable is misspelled or not recognized, it may cause unexpected output or a fallback to default values.

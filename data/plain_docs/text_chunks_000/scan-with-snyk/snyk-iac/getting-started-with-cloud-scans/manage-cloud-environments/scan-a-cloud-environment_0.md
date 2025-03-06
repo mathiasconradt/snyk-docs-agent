@@ -1,0 +1,1 @@
+Snyk automatically runs a scan when a cloud environment is created. After that, Snyk scans the environment once every 24 hours. You can also manually trigger a new scan at any time by using the Snyk API.

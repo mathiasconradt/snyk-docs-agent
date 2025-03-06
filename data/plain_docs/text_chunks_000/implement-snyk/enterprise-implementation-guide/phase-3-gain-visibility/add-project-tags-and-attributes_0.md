@@ -1,0 +1,3 @@
+After importing your Projects, you can add metadata using Project attributes or Project tags. This makes it easier to filter and report on specific subsets of your Organization.
+For example, if you add both Project attributes including frontend and a tag of Team:Unicorn to all of your Projects that a specific Dev Team owns, you can easily generate a report of frontend critical vulnerabilities in production that team Unicorn owns. 
+Attributes and tags are also useful features that can be used to configure Project collections and Project views, making it easier for you to view Projects in a grouping that makes sense to you.

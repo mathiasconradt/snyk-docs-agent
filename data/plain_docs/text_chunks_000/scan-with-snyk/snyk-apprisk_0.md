@@ -1,0 +1,1 @@
+Snyk AppRisk is a product that enables Application Security teams to implement, manage, and scale a modern, high-performing, developer security program. The product covers use cases under Application Security Posture Management (ASPM).

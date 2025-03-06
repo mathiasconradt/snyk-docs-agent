@@ -1,0 +1,4 @@
+Matches on entities that take an argument in the 7th index with the provided value.
+Template parameters:
+
+Value

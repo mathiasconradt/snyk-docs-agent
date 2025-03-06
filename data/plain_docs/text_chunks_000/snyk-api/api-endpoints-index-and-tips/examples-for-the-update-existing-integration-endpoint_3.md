@@ -1,0 +1,1 @@
+acr, artifactory-cr, azure-repos, bitbucket-cloud, bitbucket-server, digitalocean-cr, docker-hub, ecr, gcr, github, github-cr, github-enterprise, gitlab, gitlab-cr, google-artifact-cr, harbor-cr, nexus-cr, quay-cr

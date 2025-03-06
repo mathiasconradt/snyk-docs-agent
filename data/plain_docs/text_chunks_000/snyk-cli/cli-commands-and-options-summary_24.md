@@ -1,0 +1,15 @@
+--from=<STATE>[,<STATE>...]: iac describe
+--to=<PROVIDER+TYPE>: iac describe
+--service=<SERVICE>[,<SERVICE]...>: iac describe
+--quiet: iac describe
+--filter: iac describe
+--html: iac describe
+--html-file-output=<OUTPUTFILEPATH>: iac-describe
+--fetch-tfstate-headers: iac describe
+--tfc-token: iac describe
+--tfc-endpoint: iac describe
+--tf-provider-version: iac describe
+--strict: iac describe
+--deep: iac describe
+--tf-lockfile: iac describe
+--config-dir: iac describe

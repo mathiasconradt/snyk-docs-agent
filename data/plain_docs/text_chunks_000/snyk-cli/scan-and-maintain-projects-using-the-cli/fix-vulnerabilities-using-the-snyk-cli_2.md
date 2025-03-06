@@ -1,0 +1,1 @@
+The protect command was replaced by @snyk/protect: https://github.com/snyk/snyk/tree/master/packages/snyk-protect; npm package for snyk-protect command. These pages have instructions for using the package and migrating from snyk protect.

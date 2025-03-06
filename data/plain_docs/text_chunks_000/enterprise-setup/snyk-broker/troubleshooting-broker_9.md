@@ -1,0 +1,1 @@
+Open Fix/Upgrade PRs or PR/recurring tests may fail because of fetching big manifest files (> 1Mb) failure. To address this issue, follow either the Docker or Helm instructions to allow large manifest files.

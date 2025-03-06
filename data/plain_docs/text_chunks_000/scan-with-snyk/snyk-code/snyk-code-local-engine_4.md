@@ -1,0 +1,1 @@
+The instructions to configure and deploy the Local Engine in your environment are in the Readme file in the Local Engine installation package. For more information and assistance, contact your Snyk account team.

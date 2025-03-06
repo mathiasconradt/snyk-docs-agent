@@ -1,0 +1,3 @@
+Use the default grouped view to get an overview of the general health of your organization on the whole by inspecting the number of projects affected per issue and the number and kinds of issues affecting your projects.
+Alternatively, click View issues ungrouped to ungroup data, viewing a separate line for each project in which the issue occurs; meaning the same issue can appear multiple times if it affects multiple projects. This ungrouped view provide more details about each affected project, and the recommended fix.
+To toggle between views, click the View issues ungrouped or View issues grouped link.

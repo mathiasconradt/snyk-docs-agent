@@ -1,0 +1,1 @@
+This portion of the Jumpstart service is part of the Platform Configuration, and prepares Customers to better operationalize and scale usage of Snyk with broad application visibility and security coverage management.

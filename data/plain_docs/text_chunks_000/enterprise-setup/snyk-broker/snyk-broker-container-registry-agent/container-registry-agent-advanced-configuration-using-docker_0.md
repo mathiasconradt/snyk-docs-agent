@@ -1,0 +1,1 @@
+For instructions on installation of the Broker Container Registry Agent using Docker, see Snyk Broker - Container Registry Agent. See Install Broker for Container Registry using Helm for instructions on the Helm method.

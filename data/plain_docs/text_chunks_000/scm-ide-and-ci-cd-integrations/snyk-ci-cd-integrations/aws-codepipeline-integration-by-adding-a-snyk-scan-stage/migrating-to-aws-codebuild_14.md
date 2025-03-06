@@ -1,0 +1,2 @@
+How do I store the Snyk token in AWS Secrets Manager and use it in AWS CodeBuild?
+If you use an AWS Secrets Manager environment variable, store your token in AWS Secrets Manager as plain text and ensure that your CodeBuild service role has the secretsmanager:GetSecretValue permission in IAM. The value of the environment variable in AWS CodeBuild should be set to the Secret name in AWS Secrets Manager.

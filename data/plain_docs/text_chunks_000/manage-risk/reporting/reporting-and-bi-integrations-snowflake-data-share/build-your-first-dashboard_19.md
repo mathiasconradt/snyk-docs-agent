@@ -1,0 +1,15 @@
+The query below returns the number of tested repositories, total tests, and the test % success rate per Snyk Product.
+The results are based on tests executed in the CI/CD stage in the last 3 months.
+sql
+SELECT
+    PRODUCT_DISPLAY_NAME AS PRODUCT,
+    COUNT(DISTINCT INTERACTION_TARGET_ID) AS "TESTED REPOS",
+    COUNT(1) AS "TOTAL SCANS",
+    ROUND(((SUM(CASE WHEN INTERACTION_EXIT_CODE=0 THEN 1 ELSE 0 END))/
+    (NULLIF(SUM(CASE WHEN INTERACTION_EXIT_CODE IN (0,1) THEN 1 ELSE 0 END),0))
+    *100),0) AS "SUCCESS RATE"
+FROM SNYK.SNYK.USAGE_EVENTS__V_1_0
+WHERE INTERACTION_STAGE != 'cicd'
+    AND ARRAY_CONTAINS('test'::VARIANT, INTERACTION_CATEGORIES) 
+    AND INTERACTION_TIMESTAMP >= DATE_TRUNC('MONTH', DATEADD('MONTH', -3, CURRENT_DATE))
+GROUP BY PRODUCT

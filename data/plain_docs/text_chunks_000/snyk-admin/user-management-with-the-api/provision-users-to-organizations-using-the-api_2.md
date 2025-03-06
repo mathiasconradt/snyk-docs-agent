@@ -1,0 +1,1 @@
+The following explains how to use the Provision user endpoints. For more information, see the API documentation for the endpoints: Provision a user to the organizaton, List pending user provisions, and Delete pending user provision.

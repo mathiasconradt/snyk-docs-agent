@@ -1,0 +1,2 @@
+npm and Yarn are well-designed package managers. The main considerations for npm and Yarn packages are whether there are multiple package managers or Projects in the same repository or build and what criteria you want to apply, such as the threshold severity of critical/high for each.
+For source code scanning, this ecosystem is straightforward, with no special options required. Testing runs under Git and Snyk CLI with the basic features and commands.

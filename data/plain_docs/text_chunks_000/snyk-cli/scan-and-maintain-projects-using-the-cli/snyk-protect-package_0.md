@@ -1,0 +1,1 @@
+The @snyk/protect package (replaced the snyk protect command) applies the patches specified in your .snyk file to the local file system. See the README for information on how to use the package and how to migrate from snyk protect.

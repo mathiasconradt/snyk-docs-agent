@@ -1,0 +1,35 @@
+Search audit logs for a Group. Some Organization level events are supported as well as the following
+Group level events:
+api.access
+group.cloud_config.settings.edit
+group.create
+group.delete
+group.edit
+group.notification_settings.edit
+group.org.add
+group.org.remove
+group.policy.create
+group.policy.delete
+group.policy.edit
+group.request_access_settings.edit
+group.role.create
+group.role.delete
+group.role.edit
+group.service_account.create
+group.service_account.delete
+group.service_account.edit
+group.settings.edit
+group.settings.feature_flag.edit
+group.sso.add
+group.sso.auth0_connection.create
+group.sso.auth0_connection.edit
+group.sso.create
+group.sso.delete
+group.sso.edit
+group.sso.membership.sync
+group.sso.remove
+group.tag.create
+group.tag.delete
+group.user.add
+group.user.remove
+group.user.role.edit

@@ -1,0 +1,2 @@
+Provided all details have been entered correctly, the direct URL from the top of Step 3 in the Snyk web UI can now be used to verify the configuration works as intended by logging in as a user in the directory of the IdP.
+When all stored details are verified to be accurate (name, e-mail, permissions), Snyk generally recommends existing users that previously were logged in through Social login methods be removed from the Snyk platform. This can be accomplished under the Group menu Members.

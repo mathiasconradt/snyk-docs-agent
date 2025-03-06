@@ -1,0 +1,2 @@
+Relative importance asserts a common severity for a vulnerability and shows the underlying detailed information for that severity based on multiple sources. This allows developers and analysts to view a common level of importance and exposes the underlying information that contributed to the asserted severity. 
+Snyk supports relative importance in Ubuntu, Debian, Red Hat Enterprise Linux (RHEL), CentOS, Amazon Linux, Oracle Linux, and SUSE Linux Enterprise Server (SLES).

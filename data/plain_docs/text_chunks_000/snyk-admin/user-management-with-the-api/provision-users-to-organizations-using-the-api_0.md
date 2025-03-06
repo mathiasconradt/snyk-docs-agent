@@ -1,0 +1,2 @@
+The Provision user endpoints allow you to organize and grant permissions to your single sign-on users before the users log in to the Snyk platform. The endpoints are Provision a user to the organizaton, List pending user provisions, and Delete pending user provision.
+Provisioned users do not need to accept invites. When provisioned users first log in to Snyk, they will have all their permissions. You can use the endpoint Provision a user to the organization to add users to Organizations at scale before their first login.

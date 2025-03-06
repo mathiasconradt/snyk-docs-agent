@@ -1,0 +1,1 @@
+Snyk Code allows developers to ignore files in their codebase. This is done through the use of Snyk Code ignores. However, in Visual Studio, the .snyk file cannot be used to manage Snyk Code Ignores for C# Projects. Instead, developers must use .dcignore or .gitignore files to manage Code Ignores for C# Projects in Visual Studio.

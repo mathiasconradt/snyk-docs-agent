@@ -1,0 +1,4 @@
+--dev: test, monitor
+--all-projects: test, monitor
+--fail-on: test
+--prune-repeated-subdependencies: test, monitor

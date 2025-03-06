@@ -1,0 +1,2 @@
+To exclude specific files and directories from being imported by Snyk Code, you need to create a .snyk YAML policy file in your repository. See Exclude directories and files from Project import.
+You can specify directories to exclude from the import process using the Exclude dialog box when you import repositories through Git repository. However, this feature is only supported for open-source dependency scans (SCA).

@@ -1,0 +1,1 @@
+Ensure that the template is written in valid JSON syntax for API and mustache syntax for the YAML file. Any syntax errors can lead to unexpected behavior. Check the syntax and make any necessary changes.

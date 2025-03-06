@@ -1,0 +1,1 @@
+A free web application that allows you to compare software packages across open-source ecosystems. It provides insights into the overall health of a particular package by combining community and security data into a single unified view. See Snyk Advisor.

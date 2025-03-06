@@ -1,0 +1,2 @@
+For Snyk to know where to scan, you must provide it with access to your environment. The type of integration you need depends on what systems you use, what you want to scan, and where you want to add the integrations - Organization or Group. For information about available integrators, see Snyk SCM integrations and Integrate with Snyk .
+To scan your code, you must first integrate Snyk with the repository holding that code.

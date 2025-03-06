@@ -1,0 +1,3 @@
+--maven-aggregate-project: test, monitor
+--scan-unmanaged: test, monitor
+--scan-all-unmanaged: test, monitor

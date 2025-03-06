@@ -1,0 +1,2 @@
+The best time to implement Snyk Container in your pipeline is after the container image is built, that is, after running the equivalent of docker build, and before your image is either pushed into your registry (docker push) or deployed to your running infrastructure (helm install, kubectl apply, and so on).
+Typically, the way you run your container build-test-deploy pipeline depends on whether a Docker daemon is available to the build agent.

@@ -1,0 +1,3 @@
+Multiple policies can be assigned to a Project. For example, you may have a policy applied to the attributes Critical and External and another policy applied to the attributes Critical and Production. If you have a Project with the attributes Critical, External and Production,  both policies are assigned.
+When multiple policies are assigned to a Project, the order of the policies on the policy manager page determines precedence. The policy closest to the top of the list takes precedence over other assigned policies after it. To change the order of policies, either drag and drop the policies into the order you want or use the three dots on the right-hand side to move the policy up or down in the list.
+Change policy order

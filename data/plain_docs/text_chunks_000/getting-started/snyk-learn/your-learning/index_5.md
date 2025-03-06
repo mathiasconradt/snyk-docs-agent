@@ -1,0 +1,1 @@
+For all Snyk Learn security learning paths, you will be awarded a Certificate of Completion upon completion. The certificate recognizes your time and effort to improve your security skills and knowledge. You can download a PDF of the certificate from the Learning Path page.

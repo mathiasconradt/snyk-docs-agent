@@ -1,0 +1,2 @@
+The Snyk CLI provides support for fixing vulnerabilities found by using the snyk test command. For information about fixes in the Web UI, see Fix your vulnerabilities. For general information about patches, see Snyk patches to fix vulnerabilities.
+If you are using snyk container test, see Understanding Snyk Container CLI results for information about resolving vulnerabilities found in a scan. If you are using snyk code test, see View Snyk Code CLI results. If you are using snyk iac test, see Understanding the IaC CLI test results.

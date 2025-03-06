@@ -1,0 +1,2 @@
+Your fix priority depends on your workflows and business processes. Different teams approach fixes in different ways, depending on the tools they use, their own workflow maturity, and competing work priorities.
+Typically, smaller teams have less process, and Enterprise-level teams are more formal. For example, individual developers in your teams may decide which issues to fix on a case-by-case basis, or it may be a more controlled process, with team leads assigning fix work as part of a Sprint planning process

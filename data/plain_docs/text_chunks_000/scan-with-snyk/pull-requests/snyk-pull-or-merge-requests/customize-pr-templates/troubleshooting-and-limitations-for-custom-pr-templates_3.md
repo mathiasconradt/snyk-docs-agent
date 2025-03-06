@@ -1,0 +1,1 @@
+If you open a custom PR template with values from both the YAML upload template and the API template, this is the expected behavior. Refer to the order of precedence for processing custom PRs. If you do not want to see this combination, depending on your preference,  either remove the YAML  template or delete your API template.

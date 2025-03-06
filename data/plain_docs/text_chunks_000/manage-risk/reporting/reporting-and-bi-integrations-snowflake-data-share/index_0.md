@@ -1,0 +1,3 @@
+With the new Snowflake Data Share integration, your data science, BI and AppSec teams can securely access the same underlying data available in Snyk Reporting, but within your own Snowflake account, unlocking powerful new analytical tools to better understand and visualize Snyk data.
+Use this integration to enable teams to rapidly build exploratory and custom analytics using the ecosystem of tools that Snowflake supports. Customers can connect Snyk data to BI tools like PowerBI, Tableau, and Looker Data Studio or build custom Streamlit apps.
+Having Snyk datasets directly in your Snowflake account opens doors for combining Snyk data with additional data sources, which contributes a great deal to the organization-level holistic AppSec view.

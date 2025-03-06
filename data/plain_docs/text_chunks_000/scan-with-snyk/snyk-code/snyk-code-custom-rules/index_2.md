@@ -1,0 +1,1 @@
+You can test your Code Projects using the Snyk CLI with regular commands and options as long as you have the .snyk file to hold any custom rules you created using Snyk Web UI. See Snyk CLI for Snyk Code.

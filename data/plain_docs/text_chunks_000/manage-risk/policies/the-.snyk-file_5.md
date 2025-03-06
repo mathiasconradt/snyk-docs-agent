@@ -1,0 +1,3 @@
+You can use the .snyk file to specify files or directories in a repository that are to be excluded from the Snyk Code scan that will import files for Snyk Code testing and generate the Code Analysis Project. The exclude from import option is supported only in Snyk Code, and only for imports that are performed using the Snyk Web UI and CLI.
+For Projects imported using a code repository integration as opposed to using the snyk monitor command, the --policy-path option is not available. The .snyk file applies only to Projects found on the same path as the .snyk file.
+For details, see Excluding directories and files from the import process.

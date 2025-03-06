@@ -1,0 +1,1 @@
+You can use four commands in the available utils to import the entirety of Bitbucket Server repos into Snyk. You must configure both the both the Bitbucket Server token and Snyk token as environment variables to proceed.

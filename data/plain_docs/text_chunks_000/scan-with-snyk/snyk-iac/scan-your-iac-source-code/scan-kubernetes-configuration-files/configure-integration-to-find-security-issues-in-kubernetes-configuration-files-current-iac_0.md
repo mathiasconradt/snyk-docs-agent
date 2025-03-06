@@ -1,0 +1,1 @@
+Snyk tests and monitors Kubernetes configurations stored in your source code repositories and provides information, tips, and tricks to better secure a Kubernetes environment. This helps to catch misconfigurations before they are pushed to production, as well as provide fixes for vulnerabilities.

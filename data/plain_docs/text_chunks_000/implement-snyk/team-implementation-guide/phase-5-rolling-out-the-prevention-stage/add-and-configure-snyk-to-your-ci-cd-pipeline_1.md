@@ -1,0 +1,1 @@
+A benefit of adding tests to your pipeline is that you do not need to import the repository to Snyk using the source control integration (which is required for Snyk PR Checks). It can also be used as an additional gate, even if you are testing PRs, to further decrease the chance of new vulnerabilities entering your production builds.

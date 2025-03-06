@@ -1,0 +1,1 @@
+Users are provisioned to Snyk when they log in. If the new user role selected is Group Member, the new user sees only a list of your Organizations until the admin adds them to the appropriate Organizations.

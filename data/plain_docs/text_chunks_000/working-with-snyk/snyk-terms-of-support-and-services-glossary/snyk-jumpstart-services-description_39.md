@@ -1,0 +1,1 @@
+The Snyk Consultant will work with the Customer to configure a single pipeline to run the snyk iac test and snyk iac test --report commands to provide the Customer with an understanding of how to configure additional pipeline scans and fix misconfigurations.

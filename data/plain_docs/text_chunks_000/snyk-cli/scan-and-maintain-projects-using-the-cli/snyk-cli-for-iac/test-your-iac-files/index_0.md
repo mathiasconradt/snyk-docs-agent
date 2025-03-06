@@ -1,0 +1,1 @@
+Beginning with CLI version 1.594.0, all configuration files are processed locally, ensuring that they do not leave your machine. Earlier versions by default send the configuration files to Snyk to be processed. Snyk recommends that you upgrade to the latest version of the CLI.

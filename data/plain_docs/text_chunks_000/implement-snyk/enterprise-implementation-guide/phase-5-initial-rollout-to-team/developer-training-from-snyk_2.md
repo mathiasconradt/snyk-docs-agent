@@ -1,0 +1,1 @@
+Snyk Learn Product Training provides training on the Snyk Platform. Learning paths are available for Developers, Administrators, and other key roles. In addition, individual lessons are searchable from the main interface.

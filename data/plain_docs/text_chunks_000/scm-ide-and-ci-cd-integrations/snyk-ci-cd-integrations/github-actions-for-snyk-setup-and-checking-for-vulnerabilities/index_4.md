@@ -1,0 +1,3 @@
+Examples follow of using a Snyk GitHub Action to test and monitor an Open Source project. For information on using snyk test versus snyk monitor see What are the differences among snyk test, monitor, and protect?
+You can find examples specific to each language, package manager, and process on the pages listed in GitHub Actions for Open Source languages and package managers and GitHub Actions for Snyk Container and Snyk Infrastructure as Code.
+GitHub Actions will not pass on secrets set in the repository to forks being used in pull requests, and so the Snyk Actions that require the token will fail to run from a forked repository.

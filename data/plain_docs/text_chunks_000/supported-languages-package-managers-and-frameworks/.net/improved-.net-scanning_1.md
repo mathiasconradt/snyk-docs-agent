@@ -1,0 +1,2 @@
+The existing .NET scanning solution for SCM integration in the Snyk Web UI and CLI uses two different approaches. The Dependency Analysis for SCM integrations can produce false positives that have no remediation available and must be manually ignored.
+If you use the CLI to scan Projects, you can expect more accurate results compared to importing the same Project using an SCM integration. You can encounter errors when scanning Projects that use specific .NET features.

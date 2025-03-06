@@ -1,0 +1,1 @@
+Snyk also integrates with various container registries to enable you to import and monitor your containers for vulnerabilities. Snyk tests the containers you have imported for any known security vulnerabilities found, at a frequency you control.

@@ -1,0 +1,2 @@
+Snyk recommends you prepare a tool or script to build a private_key_jwt with the proper claims and sign it with the private signing key you generated.
+The JWT should include the claims outlined in the Snyk OAuth 2.0 access token endpoint for the client_assertion property. Note that the aud claim may vary based on the Snyk instance, for example, api.snyk.io or api.eu.snyk.io. For more information, see Regional hosting and data residency.

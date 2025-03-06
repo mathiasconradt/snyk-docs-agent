@@ -1,0 +1,1 @@
+PermissionEnabled?View AppstrueInstall AppstrueCreate AppstrueEdit AppstrueDelete Appstrue

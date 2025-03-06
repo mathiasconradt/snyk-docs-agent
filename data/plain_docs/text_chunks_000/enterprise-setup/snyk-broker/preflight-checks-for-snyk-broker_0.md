@@ -1,0 +1,1 @@
+The main objective of preflight checks is to catch errors and misconfigurations early, on Broker Client startup, rather than later during use. Whether or not the checks are successful, the Broker Client starts. The following checks are available.

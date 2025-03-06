@@ -1,0 +1,2 @@
+Credential validity is not checked before using a credential, nor are invalid credentials removed from the pool, so it is strongly recommended that credentials be used exclusively by the Broker Client to avoid credentials reaching rate limits at different times, and that the /systemcheck endpoint be called before use.
+Some providers, such as GitHub, do rate-limiting on a per-user basis, not a per-token or per-credential basis, and in those cases you will need to create multiple accounts with one credential per account.

@@ -1,0 +1,1 @@
+With Snyk IaC you can scan the configuration files, for example main.tf, using the CLI. External modules are not supported. For more information about variable processing, see Terraform variables support.

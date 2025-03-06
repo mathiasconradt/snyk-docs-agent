@@ -1,0 +1,3 @@
+Snyk Reports: The issue column dictionary includes new filters and columns for Jira (JIRA ISSUES LIST, LATEST JIRA ISSUE) and EPSS (EPSS SCORE, EPSS PERCENTILE). This allows you to manage your work with Jira and to include EPSS in your prioritization steps.
+Snyk Security: Snyk has improved the prioritization workflow and risk assessment by adopting CVSS V4.0 as the default evaluation for new vulnerabilities.
+Fix code vulnerabilities automatically: DeepCode AI Fix is now available in AWS Environments and JetBrains IDEs. If you use AWS multi-tenant environments, turn on the Snyk Preview Snyk Code Fix Suggestions and retest with Snyk in your IDE.

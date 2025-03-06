@@ -1,0 +1,1 @@
+This variable can be used to customize attributes based on whether the PR is an Upgrade PR, or to upgrade dependencies to newer versions regardless of vulnerabilities. In the example below you can see that the description of the PR will only show if it is an upgrade PR.

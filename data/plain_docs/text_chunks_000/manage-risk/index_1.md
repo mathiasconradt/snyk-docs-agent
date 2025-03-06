@@ -1,0 +1,1 @@
+Snyk AppRisk enables Application Security teams to run a full developer security program, covering use cases under Application Security Posture Management (ASPM). See the Snyk AppRisk page for more details about Snyk AppRisk and the differences between the two offerings.

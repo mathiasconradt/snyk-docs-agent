@@ -1,0 +1,1 @@
+PermissionEnabled?Publish Kubernetes resourcestrue

@@ -1,0 +1,2 @@
+Malicious packages can allow attackers to run remote code on the target machine. By their nature, these packages are untrusted and can be updated to add malicious functionality at any time after their discovery. Therefore, Snyk evaluates malicious code and assigns it (in almost all cases) a Critical severity level.
+The remediation advice for malicious packages is to not install them or to remove them if already been installed.

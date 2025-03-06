@@ -1,0 +1,2 @@
+The OS condition risk factor works with your Kubernetes Connector integrations. 
+The Kubernetes Connector leverages the OS condition risk factors to enhance the identification of vulnerabilities within containerized applications. It continuously checks and compares the operating systems of running containers with the known risk factors from the Snyk database. This integration helps to detect potentially vulnerable packages or images in real-time based on the operating system conditions. It allows proactive security measures within Kubernetes environments.

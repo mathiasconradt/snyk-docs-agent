@@ -1,0 +1,1 @@
+For both security policies and license policies, you can apply a policy to Project attributes and to an Organization. This enables you to assign policies to Projects and to Organizations. For details, see Assign policies to Projects and Assign a policy to an Organization.

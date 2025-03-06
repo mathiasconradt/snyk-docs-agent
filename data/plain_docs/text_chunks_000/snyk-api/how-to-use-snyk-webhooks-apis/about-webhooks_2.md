@@ -1,0 +1,1 @@
+Respond to critical issues before they impact your business. Embrace modern incident management and Snyk to stay ahead of application security. Read more about this use case in the blog "Shifting left security incident management with the Snyk & Opsgenie integration".

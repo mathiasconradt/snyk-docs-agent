@@ -1,0 +1,2 @@
+The application context refers to the information surrounding a particular application, which includes the assets that form the application and how these assets are related. Understanding this context is essential for assessing the impact and risk of security issues, as it provides a comprehensive view of the application's structure and its components. This understanding is crucial for effectively evaluating and managing application security risks.
+Access the Application context for SCM Integrations docs for more details about how to use this feature.

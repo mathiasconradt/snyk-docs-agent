@@ -1,0 +1,1 @@
+After passing through these points and the security gate, applications and code can be deployed to production: traditional and PaaS, Serverless, and Registry. You can get alerts or create Jira tickets when a new vulnerability is discovered and use Snyk's monitor function and other capabilities to maintain security.

@@ -1,0 +1,3 @@
+When you are setting up access for new users in your company, there are several approaches to consider that determine the user experience and access. In this step, consider Open To All or Require an Invite, and if Custom Mapping is desired.
+For more information, see Choose a Provisioning Option.
+The Custom Mapping feature is available exclusively with paid services. This feature allows you to provision user accounts with customized rules, tailoring access and roles based on specific needs. Keep in mind that this feature may involve complex configuration and setup, and it is recommended for organizations with advanced specific access management requirements.

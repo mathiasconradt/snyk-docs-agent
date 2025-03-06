@@ -1,0 +1,1 @@
+After you have your reduced set of Projects to prioritize, you may want to split these between different development teams. For example, you may have one Development team fixing issues with your open-source and first-party code and a separate DevOps team responsible for Containers and base image vulnerabilities.

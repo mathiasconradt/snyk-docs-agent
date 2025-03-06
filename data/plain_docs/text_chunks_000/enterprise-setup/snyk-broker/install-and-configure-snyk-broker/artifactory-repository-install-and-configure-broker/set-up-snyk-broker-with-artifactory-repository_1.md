@@ -1,0 +1,1 @@
+To use the Broker client with an Artifactory Registry deployment, run docker pull snyk/broker:artifactory. Refer to Artifactory Repository - environment variables for Snyk Broker for definitions of the environment variables.

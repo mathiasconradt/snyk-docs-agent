@@ -1,0 +1,2 @@
+To make sure users are assigned the correct role when logging in for the first time, choose either Group member, Org Collaborator or Org Admin. Refer to choosing a provisioning option for details on the options in this step.
+In the section Profile Attributes, the fields are auto-populated but verify that Email, Name and Username, if known, exactly match the corresponding keys in the SAML payload raw JSON sent by the IdP to Snyk. Select Save Changes and move to the final step where you verify the setup.

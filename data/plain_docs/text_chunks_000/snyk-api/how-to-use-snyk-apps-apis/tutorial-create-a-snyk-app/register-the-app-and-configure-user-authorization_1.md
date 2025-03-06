@@ -1,0 +1,1 @@
+We've made some good progress with our TypeScript application so far, but at the moment, that's all it is - a TypeScript application. To turn it into a bonafide Snyk App, we'll need to register our project as a new App using Snyk's API

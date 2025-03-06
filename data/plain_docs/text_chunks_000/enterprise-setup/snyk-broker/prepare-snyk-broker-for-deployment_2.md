@@ -1,0 +1,1 @@
+Snyk recommends configuring at least two separate instances of the Broker Client for each integration, either on different hosts or installed using a Kubernetes system. This ensures that you always have at least two instances running for redundancy.

@@ -1,0 +1,5 @@
+Example: monorepo to multiple images
+In this example, the application team is using a monorepo approach. The contents of the repository are built into different container images as they may be run separately. 
+Here we need to further differentiate the tags by scoping them more accurately. 
+LocationAssetSnyk Project LocationTag(s)github.com/my-team/servicepackage.jsonSnyk Org: my-teamProject name: package.jsoncomponent=pkg:github/my-team/service/front-end@mainThe tag is further scoped by specifying /front-end at the endBuilt container image called my-app-frontend:latestSnyk Org: my-teamProject name: my-app-frontend:latestcomponent=pkg:github/my-team/service/front-end@main
+LocationAssetSnyk Project LocationTag(s)Notesgithub.com/my-team/serviceGo source codeSnyk Org: my-teamProject name: Codecomponent=pkg:github/my-team/service/back-end@mainThe tag is further scoped by specifying /back-end at the endBuilt container image called my-app-backend:latestSnyk Org: my-teamProject name: my-app-backend:latestcomponent=pkg:github/my-team/service/back-end@main

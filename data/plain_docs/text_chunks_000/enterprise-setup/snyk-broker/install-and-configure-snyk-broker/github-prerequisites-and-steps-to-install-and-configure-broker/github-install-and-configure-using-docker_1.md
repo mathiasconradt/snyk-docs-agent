@@ -1,0 +1,2 @@
+To use the Snyk Broker Client with GitHub, run docker pull snyk/broker:github-com. Refer to GitHub - environment variables for Snyk Broker for definitions of the environment variables.
+If necessary, go to the Advanced configuration page and make any configuration changes needed such as providing the CA (Certificate Authority) to the Broker Client configuration if the GitHub instance is using a private certificate, and setting up proxy support.

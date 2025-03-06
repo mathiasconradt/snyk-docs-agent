@@ -1,0 +1,2 @@
+Using Snyk as a gatekeeper in your build pipeline prevents the introduction of new vulnerabilities, based on the "fail" criteria you set.
+After your teams understand the vulnerabilities in their applications and develop a process for fixing them early in the development cycle, you can configure Snyk to fail your builds if vulnerabilities are detected, to prevent introducing vulnerabilities into your applications.

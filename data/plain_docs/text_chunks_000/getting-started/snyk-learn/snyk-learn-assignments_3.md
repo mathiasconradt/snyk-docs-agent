@@ -1,0 +1,1 @@
+Ensure developers are trained on new product features. Admins can create assignments that include product training content on new features. If significant updates require retraining, the admin can use the progress reset feature.

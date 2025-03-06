@@ -1,0 +1,31 @@
+Lists of the options for Snyk CLI commands follow. Each option is followed by the command(s) to which the option applies. The commands are linked to their help docs. For details concerning each option, see the help docs.
+--all-projects: test, monitor, sbom
+--fail-fast: test, monitor
+--detection-depth=<DEPTH>: test, monitor, iac test, sbom
+--exclude=<NAME>[,<NAME>]...>: test, monitor, sbom
+--prune-repeated-subdependencies, -p: test, monitor, sbom
+--print-deps: test, monitor, container test
+--remote-repo-url=<URL>: test, monitor, iac test
+--dev: test, monitor, sbom
+--org=<ORG_ID>: test, monitor, code test, container test, container monitor, iac test, iac describe, sbom, container sbom
+--file=<FILE>: test, monitor
+--file=<FILE_PATH>: container test, container monitor, sbom test
+--package-manager=<PACKAGE_MANAGER_NAME>: test, monitor
+--unmanaged: test, monitor. See also Options for scanning using --unmanaged and the sbom command help for another use of this option.
+--ignore-policy: test, monitor, iac test, iac describe
+--trust-policies test, monitor
+--show-vulnerable-paths=<none|some|all> test
+--project-name=<PROJECT_NAME>: test, monitor, container test, container monitor
+--target-reference=<TARGET_REFERENCE>: test, monitor, iac test, container monitor
+--policy-path=<PATH_TO_POLICY_FILE>: test, monitor, container test, container monitor, iac test, iac describe, ignore
+--json: test, monitor, code test, container test, container monitor, iac test, iac describe, sbom test
+--json-file-output=<OUTPUT_FILE_PATH>: test, code test, container test, iac test, sbom
+--sarif: test, code test, container test, iac test
+--sarif-file-output=<OUTPUT_FILE_PATH>: test, code test, container test, iac test
+--severity-threshold=<low|medium|high|critical>: test, code test, container test, iac test
+--fail-on=<all|upgradable|patchable>: container test, test
+--project-environment=<ENVIRONMENT>[,<ENVIRONMENT>]...>: monitor, container monitor, iac test
+--project-lifecycle=<LIFECYCLE>[,<LIFECYCLE>]...>: monitor, container monitor, iac test
+--project-business-criticality=<BUSINESS_CRITICALITY>[,<BUSINESS_CRITICALITY>]...>: monitor, container monitor, iac test
+--project-tags=<TAG>[,<TAG>]...>: monitor, container monitor, iac test
+--tags=<TAG>[,<TAG>]...>: monitor, container monitor

@@ -1,0 +1,1 @@
+As you operationalize security testing in your development process, another option for your fix strategy is to have campaigns to eliminate vulnerability types, for example, SQL injection. Using CWE in your search filters can be very useful in reporting to identify and log issues.

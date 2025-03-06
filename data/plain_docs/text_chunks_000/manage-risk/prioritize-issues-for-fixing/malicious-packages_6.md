@@ -1,0 +1,2 @@
+Malicious packages may be publicly available for only a few minutes until identified and taken down. In other cases, a malicious package can be included in a targeted supply chain infection campaign and go unnoticed for months or years. 
+While research and defense capabilities improve, attackers use novel techniques and technologies to overcome their findings. Users may notice that a Snyk advisory was published recently, despite the malicious package's being in the wild for a long time.

@@ -1,0 +1,4 @@
+Introduction to automated security scans with PR Checks
+The Snyk PR Checks feature allows developers to auto-scan their PRs for issues before merging their code. As Snyk acts as an automated pseudo-team member (an “expert security reviewer”), it finds potential issues, leaving review notes on your PR before the code is committed.
+While PRs are the points in the development process where code reviews happen, PR Checks allow security scanning to be integrated with developer workflows, empowering dev teams and helping to prevent security issues from occurring in deployed code.
+As part of the Snyk Pull Request Experience, the Snyk Issue Summary Comment feature allows you to receive a PR comment on each pull request, summarizing the most recent PR Check results according to the type of check and the count of findings by severity. This reduces context switching by displaying additional information about the PR Check scan results in the pull request.

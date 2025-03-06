@@ -1,0 +1,2 @@
+Snyk “maps” security rules to compliance controls, which means each rule is associated with one or more controls and each control is associated with one or more rules.
+For example, control 2.1.5 of CIS AWS Foundations Benchmark (v1.4.0) is “Ensure that S3 Buckets are configured with ‘Block public access (bucket settings’” and it maps to the security rule SNYK-CC-00195, which is “S3 bucket does not have all block public access options enabled.”

@@ -1,0 +1,1 @@
+When you log in to an existing account and select an Organization, the Web UI opens the Dashboard for that Organization. You can see your top pending tasks and vulnerable Projects, and you can add new Projects.

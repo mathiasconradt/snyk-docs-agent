@@ -1,0 +1,1 @@
+Follow steps similar to those for installing the CLI locally. You must be able to run an npm command in the pipeline script. This method has the advantage of completely aligning with the CLI experience so you can easily troubleshoot and configure.

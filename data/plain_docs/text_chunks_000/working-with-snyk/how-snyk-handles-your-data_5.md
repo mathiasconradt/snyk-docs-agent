@@ -1,0 +1,1 @@
+Snyk knows how important it is to protect your data. Therefore Snyk will only access and store the information needed to provide you with Snyk services and to ensure accurate analysis as described for each Snyk product: Snyk Open Source, Snyk Code, Snyk Container, and Snyk IaC.

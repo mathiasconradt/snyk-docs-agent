@@ -1,0 +1,9 @@
+--file=.sln: test
+--file=<filename>.sln: sbom
+--file=packages.config: test, sbom
+--assets-project-name: test, monitor, sbom
+--packages-folder: test, monitor, sbom
+--project-name-prefix=<PREFIX_STRING>: test, monitor
+--project-name-prefix=my-group/: test, monitor
+--dotnet-runtime-resolution:  test, monitor
+--dotnet-target-framework: test, monitor

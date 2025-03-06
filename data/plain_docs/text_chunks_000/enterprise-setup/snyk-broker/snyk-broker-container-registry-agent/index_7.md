@@ -1,0 +1,1 @@
+All the preceding information applies to setting up the Broker Client for these container registries. Note that the CR_USERNAME value is permanent and should be _json_key, and the CR_PASSWORD value should be the JSON key used to authenticate to Google.

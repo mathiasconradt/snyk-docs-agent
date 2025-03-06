@@ -1,0 +1,2 @@
+The package was available publicly in npm, possibly only briefly, before being removed, unpublished, by the owner. Under certain conditions, this can result in the package page being unavailable, though it is possible to see that it was once in use. The name is still available to be used again, with no guarantee that its contents in the new incarnation will be safe.
+In these cases, it is important to be extra cautious about where the package was downloaded. Ignoring the issue altogether may result in a future problem in case a malicious actor republishes the package to npm.

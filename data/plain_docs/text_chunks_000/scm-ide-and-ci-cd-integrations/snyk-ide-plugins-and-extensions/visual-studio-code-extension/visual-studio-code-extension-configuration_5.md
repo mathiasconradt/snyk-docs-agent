@@ -1,0 +1,1 @@
+Trusted Folders: Link to the settings.json file, which has a list of folders that are marked as trusted. Use this setting only in advanced cases or when certain folders should be marked as not trusted.

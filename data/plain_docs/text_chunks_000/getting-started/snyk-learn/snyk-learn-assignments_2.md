@@ -1,0 +1,1 @@
+Mandate annual security awareness training for all employees. Assignments can span a specific year period and include relevant security education content. The admin can use the progress reset feature to reset last year’s progress for the new cycle.

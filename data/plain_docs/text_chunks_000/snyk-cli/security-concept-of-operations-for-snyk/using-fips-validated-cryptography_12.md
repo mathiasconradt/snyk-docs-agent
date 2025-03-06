@@ -1,0 +1,1 @@
+The Snyk Nexus Repository Manager Gatekeeper plugin and the Artifactory Gatekeeper plugin use the Snyk API and run on a Java VM. To make use of FIPS-validated cryptography, configure the Java Runtime to use a FIPS-validated JCE (Java Cryptography Extension).

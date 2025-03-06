@@ -1,0 +1,1 @@
+By following these steps and considerations, you can successfully migrate your security scanning workflow from the Snyk and AWS CodePipeline integration to a more streamlined and configurable solution using AWS CodeBuild.

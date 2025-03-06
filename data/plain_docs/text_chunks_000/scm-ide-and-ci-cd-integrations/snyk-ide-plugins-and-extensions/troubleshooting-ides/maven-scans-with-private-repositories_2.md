@@ -1,0 +1,2 @@
+You can establish Maven settings or a profile containing the connection information, for example, with -- -s your-home-directory/.m2/settings.xml or -- -Dprofile=my-profile.
+These parameters can be passed on to the CLI using the Additional Parameters plugin setting in IDE. For CI/CDs. this should be passed as a pipeline argument if the Snyk CLI used directly, or a correct path mapping should be provided, if run in Docker image.

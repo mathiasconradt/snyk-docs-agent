@@ -1,0 +1,1 @@
+These are issues that cannot be resolved by upgrading a direct dependency. They contain the same information as the issues to fix by upgrading, with versions in which the vulnerability could be fixed if the dependency were upgradeable.

@@ -1,0 +1,5 @@
+Snyk Broker can bring high availability capabilities to both servers and clients, thus increasing the scalability of the current Broker, initially to support the addition of the “git-clone-through-broker” flow for Snyk Code.
+High availability mode allows several Broker Clients to have separate connections, independent of one another. The Snyk platform will spread the requests it makes evenly across the connections to ease the load on each client and provide true redundancy if one is offline. High availability mode also avoids downtime in the fairly infrequent cases when Snyk upgrades the Broker server components.
+Operation of multiple Broker clients in high availability
+To use high availability mode, deploy more than one replica, either by running more than one container or by increasing the replica count in your Kubernetes deployment. Each container must have the exact same parameters.
+A maximum of four Broker Clients running concurrently in high availability mode is allowed. A fifth tunnel will attempt to connect indefinitely.

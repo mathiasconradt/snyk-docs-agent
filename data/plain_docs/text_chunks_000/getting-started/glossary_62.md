@@ -1,0 +1,1 @@
+Static Application Security Testing. A security analysis technique that examines static source code to identify potential vulnerabilities without running the application. See also IAST, DAST, Snyk Code, and Snyk Infrastructure as Code.

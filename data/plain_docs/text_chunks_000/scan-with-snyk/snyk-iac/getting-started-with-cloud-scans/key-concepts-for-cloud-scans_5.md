@@ -1,0 +1,2 @@
+A compliance standard is a framework that establishes guidelines and controls for Organizations to secure their IT systems and infrastructure. Compliance standards are versioned, with versions being released at various cadences. Examples: NIST 800-53 (vRev5), CIS AWS Foundations Benchmark (v1.4.0). Snyk provides a Cloud Compliance Issues report.
+For more information, see supported compliance standards.

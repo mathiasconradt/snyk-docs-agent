@@ -1,0 +1,1 @@
+For users, an application that takes a container image and turns it into a running container. Container engines typically interface with container registries and run containers. Examples of container engines include Docker, CRI-O, and LXC.

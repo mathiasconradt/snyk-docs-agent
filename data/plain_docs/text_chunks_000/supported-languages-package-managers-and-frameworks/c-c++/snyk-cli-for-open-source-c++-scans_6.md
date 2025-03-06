@@ -1,0 +1,3 @@
+The confidence level shows how confident Snyk is about the actual identification of the dependency. The number can be between 0 and 1 and the higher the number is, the more accurate the identification. A confidence level of 1 means that all the files in the source tree fully matched all the expected files in the Snyk database.
+curl|https://github.com/curl/curl/releases/download/curl-7_58_0/curl-7.58.0.tar.xz@7.58.0 confidence: 0.993
+You may need to change the source code of the dependencies that you use in your software. As Snyk uses file signatures to find the closest possible match to an open-source library, your changes may decrease the accuracy of the identification of the actual library.

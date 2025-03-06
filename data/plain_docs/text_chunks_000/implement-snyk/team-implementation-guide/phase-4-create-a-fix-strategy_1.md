@@ -1,0 +1,4 @@
+Before diving into specific vulnerabilities, consider your Organizations and repositories ("targets" in Snyk) to consider any areas of specific importance. The discovery of business-critical applications you took in phase 1 can help inform and prioritize during this phase. For example, if your Organizations match different products, you can initially focus on the one product with the most users or where security matters most. 
+In your Organization, you can then consider the repositories that make up the application's different parts. Areas that handle sensitive data or are public-facing may be more important to secure, so this could be another way to narrow down your initial list of Projects to review.
+
+If you have used Attributes to add metadata to your Projects, these can be a great way to filter down the number of Projects that you are considering.

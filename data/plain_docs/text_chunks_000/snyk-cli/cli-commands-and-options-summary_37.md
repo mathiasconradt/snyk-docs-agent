@@ -1,0 +1,9 @@
+--org=<ORG_ID>: test, monitor
+--json: test, monitor
+--json-file-output=<OUTPUT_FILE_PATH>: test
+--remote-repo-url=<URL>: test
+--severity-threshold=<low|medium|high|critical>: test
+--target-reference=<TARGET_REFERENCE>: test, monitor
+--max-depth: test, monitor, sbom
+--print-dep-paths: test, monitor
+--project-name=c-project: monitor

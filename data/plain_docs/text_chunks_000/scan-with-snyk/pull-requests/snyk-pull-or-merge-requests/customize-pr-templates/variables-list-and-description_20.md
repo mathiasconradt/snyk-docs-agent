@@ -1,0 +1,1 @@
+This variable can be used to customize attributes based on whether the PR is an Open-Source product. Currently, Snyk has two different product types that can open PRs (Open-Source PRs and Container PRs). Using this variable will help you customize your template to differentiate between the two.

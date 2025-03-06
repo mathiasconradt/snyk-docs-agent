@@ -1,0 +1,2 @@
+To use the Broker client with GitLab.com or an on-prem GitLab deployment, run docker pull snyk/broker:gitlab. Refer to GitLab - environment variables for Snyk Broker for definitions of the environment variables.
+If necessary, go to the  Advanced configuration page and make any configuration changes needed, such as providing the CA (Certificate Authority to the Broker Client configuration if the GitlLab instance is using a private certificate, or setting up proxy support.

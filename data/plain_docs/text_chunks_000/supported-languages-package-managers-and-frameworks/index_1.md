@@ -1,0 +1,2 @@
+The following table lists supported languages and the availability of support for using each language with SCM integrations and Snyk CLI, IDE, and CI/CD. Navigate to each language page for more details.
+LanguageSnyk Open SourceSnyk CodeSCM supportSnyk CLI, IDE, CI/CDApex✖️✔️✔️✔️C/C++✔️✔️For Snyk Code✔️Dart and Flutter✔️✖️✖️✖️Elixir✔️✖️✖️✔️Go✔️✔️✔️✔️Java and Kotlin✔️✔️✔️✔️JavaScript✔️✔️✔️✔️.NET✔️✔️✔️✔️PHP✔️✔️✔️✔️Python✔️✔️✔️✔️Ruby✔️✔️✔️✔️Rust✔️✖️✖️✖️Scala✔️✔️✔️✔️Swift and Objective-C✔️✔️✔️✔️TypeScript✔️✔️✔️✔️VB NET✖️✔️✔️✔️

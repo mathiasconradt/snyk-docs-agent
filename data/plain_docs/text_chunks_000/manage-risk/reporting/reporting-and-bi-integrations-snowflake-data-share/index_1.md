@@ -1,0 +1,1 @@
+Snowflake Data Share allows companies to provide data to their customers in a secure, simple, and quick manner. With Snowflake data shares, the data is not exchanged between the accounts; instead, the data consumer is granted read-only access to the shared database through their own Snowflake account.

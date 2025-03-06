@@ -1,0 +1,3 @@
+If you are using private container registries, you must create a dockercfg.json file that contains the credentials to the registry. Then you must create a secret, which must be called snyk-monitor.
+The dockercfg.json file is necessary to allow the monitor to look up images in private registries. Usually, your credentials are in $HOME/.docker/config.json. However, the credentials must also be added to the dockercfg.json file. The Snyk Controller is not able to access these registries if the credentials are only stored in $HOME/.docker/config.json
+The steps below explain how to authenticate to private container registries.

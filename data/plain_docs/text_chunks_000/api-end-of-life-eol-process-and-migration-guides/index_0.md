@@ -1,0 +1,1 @@
+This page explains the process, key dates, and milestones associated with the end-of-life (EOL) cycle for all API endpoints. In this documentation, you will also find detailed information about key dates and migration guides for API endpoints that are in the end-of-life process.

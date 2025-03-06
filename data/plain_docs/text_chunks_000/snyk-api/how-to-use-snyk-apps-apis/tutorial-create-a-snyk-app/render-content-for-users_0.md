@@ -1,0 +1,2 @@
+In the previous module, we covered registering our Snyk App, setting up the authorization flow, and handling user authorization within our App. All of those topics are integral to the functionality of every Snyk App, but they're all what you might call "behind the scenes" topics.
+In this module, we'll switch gears to focus on displaying content to the users who have authorized with our Snyk App. Specifically, we want to show unauthorized users a big button they can click to authorize and authorized users a list of their projects from Snyk.

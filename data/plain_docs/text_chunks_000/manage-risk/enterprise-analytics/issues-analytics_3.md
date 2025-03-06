@@ -1,0 +1,1 @@
+The Manage pillar represents how your business manages issues impacting monitored assets that make up your applications. Rather than looking at existing risk, this provides a look at the patterns of behavior of teams in addressing the resolution or acceptance of, or deferral of, action on risk that manifests itself in monitored assets.

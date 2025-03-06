@@ -1,0 +1,1 @@
+A security policy that checks cloud infrastructure and infrastructure as code (IaC) for misconfigurations that can lead to security problems, or a security rule used by Snyk Code when scanning your source code for vulnerabilities. For more information, see Snyk Code security rules and IaC custom rules.

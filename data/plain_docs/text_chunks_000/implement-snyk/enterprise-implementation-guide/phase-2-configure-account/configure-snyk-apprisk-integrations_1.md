@@ -1,0 +1,1 @@
+Start onboarding Snyk AppRisk by identifying all inventory code-based assets and detecting which assets have security controls set up. See the Configure Asset Management with Snyk Essentials page for more details on configuring and setting up SCM integrations.

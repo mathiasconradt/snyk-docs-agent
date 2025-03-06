@@ -1,0 +1,1 @@
+Using this option requires paid professional services and cannot be completed using the Self-Serve SSO option. Contact the Snyk support team or your Snyk account team to purchase the required services.

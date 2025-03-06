@@ -1,0 +1,3 @@
+Payloads may evolve over time, and so are versioned. Payload versions are supplied as a suffix to the X-Snyk-Event header. For example, project_snapshot/v0 indicates that the payload is v0 of the project_snapshot event.
+Version numbers only increment when a breaking change is made, for example, removing a field that used to exist, or changing the name of a field. Version numbers do not increment when making an additive change, such as adding a new field that never existed before.
+During the BETA phase, the structure of webhook payloads may change at any time, so Snyk  recommends that you check the payload version.

@@ -1,0 +1,1 @@
+After the snyk test is complete on the dependencies for an application or a container image, you can run snyk monitor. snyk monitor saves a snapshot of the Project dependencies in your snyk.io account, where you can see the dependency tree with all of the issues and be alerted if and when new issues are found in the dependencies.

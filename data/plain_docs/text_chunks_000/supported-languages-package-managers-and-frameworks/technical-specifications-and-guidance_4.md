@@ -1,0 +1,2 @@
+Supported file extensions for Snyk Code
+LanguageInterfile SupportSupported ExtensionApexYes.cls, .trigger, .tgrC/C++Yes.c, .cc, .cpp, .cxx, .h, .hpp, .hxxCSharpYes.aspx, .csGoYes.goGroovyYes.groovyJavaYes.java, .jsp, jspxJavaScript/TypeScriptYes.ejs, .es, .es6, .htm, .html, .js, .jsx, .ts, .cts, .mts, .tsx, .vue, .mjs, .cjsKotlinYes.ktPHPYes.php, .phtml, .module, .inc, .install, .theme, .profilePythonYes.pyRubyNo.erb, .haml, .rb, .rhtml, .slimScalaYes.scalaSwiftYes.swiftVisual BasicYes.vb

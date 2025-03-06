@@ -1,0 +1,2 @@
+CI/CD
+Continuous integration (CI), continuous delivery (CD), and continuous deployment (CD) together comprise a Software Development Lifecycle (SDLC) model, guiding developers to automate the development and delivery of small, frequent changes. This ensures all team members have access to the latest codebase and can ensure the compatibility of committed code during development. See Snyk CI/CD for details of Snyk CI/CD integrations.

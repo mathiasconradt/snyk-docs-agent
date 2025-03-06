@@ -1,0 +1,1 @@
+When you run a test in your pipeline, you can use filters to determine what would result in a test's passing or failing. The most common of these is severity threshold, where you can specify to fail a build only if there are High or Critical severity vulnerabilities.

@@ -1,0 +1,1 @@
+If you so not have jq installed, you can send a request to the Snyk API to return all your environment IDs, look for the ID of the environment you want to scan, and send another request to manually trigger the scan.

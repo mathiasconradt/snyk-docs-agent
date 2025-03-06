@@ -1,0 +1,4 @@
+--command=<COMMAND>: test, monitor, sbom
+--skip-unresolved=true|false: test, monitor, sbom
+--File=<filename>: sbom
+--pakage-manager=<package manager>: sbom

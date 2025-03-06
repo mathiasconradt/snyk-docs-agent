@@ -1,0 +1,1 @@
+Permission GroupPermissionEnabledSnyk Learn Assignments managementView Organization assignmentstrueSnyk Learn Assignments managementEdit assignmentstrueSnyk Learn Assignments managementCreate assignmentstrueSnyk Learn Assignments managementDelete assignmentstrueSnyk Learn Reports managementView Organization reportstrue

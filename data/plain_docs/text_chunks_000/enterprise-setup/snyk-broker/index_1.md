@@ -1,0 +1,2 @@
+Snyk Broker is hosted on GitHub and published as a set of Docker images for specific integrations. If you are using Kubernetes, Snyk provides a Helm Chart to deploy Snyk Broker. To deploy Broker, you must install and configure an integration.
+You can install and configure using Helm or Docker. You can install using Docker to run the Snyk Broker Client or run npm install snyk-broker. Snyk recommends using Helm as the simplest way to deploy Snyk Broker.

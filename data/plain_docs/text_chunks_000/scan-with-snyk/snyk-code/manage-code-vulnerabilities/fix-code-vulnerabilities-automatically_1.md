@@ -1,0 +1,2 @@
+DeepCode AI Fix combines the power of a thorough program analysis engine with the abilities of an in-house deep learning-based large language model. This combination allows for compiling large amounts of unstructured language information from open-source code.
+Key features set DeepCode AI Fix apart. It has a neural network trained on millions of lines of code, allowing for greater versatility and creativity. The Snyk Code engine rigorously checks the suggestions from the neural network, ensuring all automated fixes are small and targeted to each vulnerability or code issue.

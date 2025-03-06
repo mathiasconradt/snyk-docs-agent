@@ -1,0 +1,2 @@
+To take effective action based on license issues, you need to define policies defining these actions based on license types. Policies provide a way to capture different requirements within an Organization based on factors such as line of business. Work with your legal team to create policies that are specific to your company.
+To open your Snyk Group default license policy, navigate to the Policies menu option in your Group.

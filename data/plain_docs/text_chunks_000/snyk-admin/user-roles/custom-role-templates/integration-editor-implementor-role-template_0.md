@@ -1,0 +1,2 @@
+This is a Group-level role with integration-related permissions to enable and process the integration of multiple third-party tools.
+When you create an Integration Editor/Implementor, you define whether this user implements the API. This template includes API implementation using the four Organization-level Service Accounts permissions. If this is not required for your custom role, do not include the Service Accounts permissions.

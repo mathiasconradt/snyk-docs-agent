@@ -1,0 +1,1 @@
+The asset policies, which come with Snyk Essentials, help you automate the process of adding business context and receiving notifications. You can set up policies to automatically identify the coverage control gaps.

@@ -1,0 +1,9 @@
+Snyk analysis shows a list of security vulnerabilities and code issues in the application code. Select a security vulnerability or a code security issue to view more details and examples of how others fixed the issue. The Issue details panel appears in a tab on the right side of the screen.
+The Snyk analysis panel on the left in the following screen image shows how much time the analysis took and a list of issues with the suggestions found for those issues.
+Each issue contains a severity icon that has the following meaning:
+|  Critical severity                                                                                                    | May allow attackers to access sensitive data and run code on your application.                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+|  High severity | May allow attackers to access sensitive data on your application.                                                                            |
+|  Medium severity                                          | May allow attackers under some conditions to access sensitive data on your application.                                                      |
+|  Low severity                                                                                                         | The application may expose some data allowing vulnerability mapping, which can be used with other vulnerabilities to attack the application. |
+Snyk Security extension with Snyk Code issue

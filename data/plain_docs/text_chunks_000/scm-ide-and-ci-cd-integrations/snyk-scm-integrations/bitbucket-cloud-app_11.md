@@ -1,0 +1,1 @@
+The Bitbucket Cloud App is not supported at the Group level. The available options at the Group level are BitBucket Cloud and BitBucket Server. See the BitBucket setup guide for installation instruction on both of them.

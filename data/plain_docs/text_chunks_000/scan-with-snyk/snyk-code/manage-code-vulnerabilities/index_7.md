@@ -1,0 +1,3 @@
+Filter discovered vulnerability issues according to different criteria shown in the following table.
+Vulnerability issue filterDescriptionSeverity levelShow issues with a certain severity level. Snyk Code uses only High, Medium, and Low severity levels, without Critical. Priority scoreShow issues in a certain priority score range.StatusShow Open issues or issues that were Ignored.LanguagesShow issues that were discovered in code files that were written in a specific language. Only programming languages discovered in the analyzed repository are displayed in the Filter pane.Vulnerability typesShow issues with a certain Vulnerability Type. See Snyk Code security rules.
+Vulnerability issue filtering, sorting, and grouping

@@ -1,0 +1,1 @@
+Snyk shows your preferred Organization by default when you log into the Snyk Web UI. Snyk also uses the settings for your preferred Organization when you test a Project using the CLI. For more information, see Manage Organizations.

@@ -1,0 +1,1 @@
+This walkthrough assumes that you have followed the initial setup steps as described in Getting started: create a Snyk account, set up an integration with a Git repo, and import a Project containing items for scanning.

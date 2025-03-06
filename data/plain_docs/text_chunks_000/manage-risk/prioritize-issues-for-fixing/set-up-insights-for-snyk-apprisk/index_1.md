@@ -1,0 +1,1 @@
+Customize the Snyk AppRisk prioritization using the Set up Insights option and an application that scans images using Snyk Container. You can get additional value by also scanning your open-source dependencies with Snyk Open Source and your source code with Snyk Code.

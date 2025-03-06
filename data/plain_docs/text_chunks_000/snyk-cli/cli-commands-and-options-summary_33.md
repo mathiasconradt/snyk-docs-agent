@@ -1,0 +1,2 @@
+--strict-out-of-sync=true|false: test, monitor, sbom
+--yarn-workspaces: test, monitor, sbom

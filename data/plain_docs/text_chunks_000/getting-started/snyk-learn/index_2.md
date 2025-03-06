@@ -1,0 +1,5 @@
+Snyk security education provides in-depth resources on developer security. Using resources on Snyk Learn, developers learn how to stay secure with interactive lessons exploring vulnerabilities across various languages and ecosystems.
+Security education lessons address the needs of developers who want to learn more about general security best practices or specific vulnerabilities and how to mitigate them. Snyk Learn is also helpful for developers, team leads, and managers who want to enhance the general security knowledge of their team.
+The lessons on Snyk Learn are aligned with the NIST NICE Framework Work Role Categories and Competency Areas.
+Security education lessons cover many languages, including JavaScript, Java, C#, Python, PHP, Go, and C++. Snyk Learn also has lessons in general security, Kubernetes, artificial intelligence, and LLMs.
+Snyk offers multiple security education learning paths, including OWASP Top 10, Snyk Top 10, and Security for Developers, built in partnership with NYU.

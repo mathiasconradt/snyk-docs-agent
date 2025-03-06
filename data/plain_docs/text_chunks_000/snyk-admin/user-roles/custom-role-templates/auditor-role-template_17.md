@@ -1,0 +1,1 @@
+PermissionEnabled?View environmentsfalseCreate environmentsfalseDelete environmentsfalseUpdate environmentsfalseView scanstrueCreate scansfalseView resourcestrueView artifactstrueCreate artifactsfalseView Custom RulesfalseCreate Custom RulesfalseEdit Custom RulesfalseDelete Custom Rulesfalse

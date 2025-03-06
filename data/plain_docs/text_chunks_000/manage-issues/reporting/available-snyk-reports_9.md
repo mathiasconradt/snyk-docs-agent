@@ -1,0 +1,2 @@
+The CWE Top 10 KEV Weaknesses list identifies the top ten CWEs in the Cybersecurity and Infrastructure Security Agency’s (CISA) Known Exploited Vulnerabilities (KEV) Catalog, a database of security flaws in software applications and weaknesses that have been exposed and leveraged by attackers. 
+The report is based on the version released in 2023 by Mitre. The supported products are Snyk Open Source, Snyk Container, and Snyk Code.

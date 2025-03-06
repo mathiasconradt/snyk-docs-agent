@@ -1,0 +1,1 @@
+By default, Snyk Installations will download Snyk binaries over the network from downloads.snyk.io and use static.snyk.io as a fallback. If this fails, there may be a network or proxy issue. If you cannot fix the issue, you can do a manual installation instead. See step 2. Configure a Snyk installation.

@@ -1,0 +1,2 @@
+You can create an oauth_private_key_jwt service account at either the Group or Organization level by using the Snyk API. To create the service account, you must provide the URL from your publicly accessible JWKS endpoint and the role you wish to assign to the service account. For more information, see Manage service accounts using the Snyk API.
+The response includes the client_id, which is needed for the next step.

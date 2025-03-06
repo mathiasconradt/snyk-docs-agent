@@ -1,0 +1,1 @@
+If you believe you have found false positives because the application runs on a system that always has the latest patches from Microsoft installed, which may mean the vulnerability is no longer relevant to your Project, you may choose to ignore it.

@@ -1,0 +1,1 @@
+The top 10 package managers widget allows you to identify the leading package managers in your inventory. The quantities represent assets of package type. A package asset is defined as software or library that is managed by package management systems.

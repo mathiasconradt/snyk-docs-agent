@@ -1,0 +1,1 @@
+Snyk supports automatic upgrade PRs for npm, Yarn, and Maven-Central Projects through GitHub, GitHub Enterprise Server, and BitBucket Cloud. Use with Snyk Broker is supported. For use with the Broker, ask your admin first to upgrade to v4.55.0 or later.

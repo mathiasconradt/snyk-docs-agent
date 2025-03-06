@@ -1,0 +1,1 @@
+Snyk Apps have first-class access to the API, regardless of whether users installing the App have paid for access or not. To take advantage of this feature, Apps must use API endpoints with the domain https://api.snyk.io/rather than the deprecated https://snyk.io/api/, when accessing the API within the App.

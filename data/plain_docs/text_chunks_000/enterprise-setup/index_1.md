@@ -1,0 +1,1 @@
+You must have a Snyk account to use Snyk functionality, even within your local environment. Create a free account to try out Snyk for a Project. If your enterprise is already using Snyk, you may be able to log in using single sign-on to be provisioned with a Snyk account. For details, see Create or log in to an existing account.

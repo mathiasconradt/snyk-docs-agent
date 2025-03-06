@@ -1,0 +1,1 @@
+Depending on your license with Snyk, you may not see the SSO option on your Group Settings page. If it is not displayed, submit a request to Support to enable it. This option lets you configure SSO with SAML, but if you want to use a different SSO configuration option, for example, OIDC,  submit a request to Snyk Support, and a member of the Snyk support team will assist.

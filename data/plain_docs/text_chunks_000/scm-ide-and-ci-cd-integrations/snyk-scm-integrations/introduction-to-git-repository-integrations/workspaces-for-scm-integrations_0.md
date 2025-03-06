@@ -1,0 +1,1 @@
+Workspaces improve the accuracy and reliability of Snyk’s SCM integration results, especially for large-scale enterprise environments. This capability also supports additional functionality and improvements we have planned in the future. For these reasons, Snyk strongly recommends enabling this option by default at your Group level.

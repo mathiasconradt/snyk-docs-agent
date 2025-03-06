@@ -1,0 +1,1 @@
+Snyk Container CLI could report Maven packages suffixed with a version of @unknown when pom.properties manifest file is not included in the scanned JARs. For details of other reasons why the package version is reported as @unknown, see  Why-does-my-Maven-package-show-Unknown-through-the-SCM.

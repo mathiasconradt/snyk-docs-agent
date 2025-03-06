@@ -1,0 +1,3 @@
+--auth-type=<TYPE>\
+--client-secret=<SECRET>\
+--client-id=<ID> snyk auth

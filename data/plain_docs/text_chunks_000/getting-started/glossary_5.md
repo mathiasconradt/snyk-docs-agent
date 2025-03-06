@@ -1,0 +1,1 @@
+Information related to the organization's objectives, priorities, and regulatory requirements, such as criticality of the application to the business, compliance standards, data sensitivity, and potential impact on revenue or reputation.

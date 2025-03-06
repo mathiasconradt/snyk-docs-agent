@@ -1,0 +1,1 @@
+Matches on various types of potentially user controlled data sources, both servers (e.g., HTTP parameters/header/body, URLs, cookies, etc.) or indirect ones (e.g., database fields, local files, I/O or environment variables).

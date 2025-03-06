@@ -1,0 +1,1 @@
+Snyk Essentials automatically derives assets from Snyk and any SCM tools that are onboarded using the Snyk Essentials Integration Hub. SCM tools from the Snyk Essentials Integration Hub may add additional repositories that are not scanned by Snyk and additional contexts, such as teams and code committers.

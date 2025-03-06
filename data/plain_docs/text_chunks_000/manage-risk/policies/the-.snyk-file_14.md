@@ -1,0 +1,3 @@
+The Snyk CLI expects the .snyk file to apply to the manifest being analyzed. In the case of a complex Project or monorepo, there may be many manifests in subfolders, and you may wish to use a centralized ignore policy. The .snyk file is expected to be the root of your Project, with your manifest file. If the .snyk file is not in the root of your Project, for example, in the case of a centralized policy, you must specify the path explicitly using the --policy-path option.
+If you create a .snyk ignore policy using the CLI and Snyk does not successfully ignore the vulnerability, use the option --policy-path=/path/path/file.
+Your complete statement should be snyk ignore --id=IssueID [--expiry=expiry] [--reason='reason for ignoring'] [--policy-path=/path/path/file].

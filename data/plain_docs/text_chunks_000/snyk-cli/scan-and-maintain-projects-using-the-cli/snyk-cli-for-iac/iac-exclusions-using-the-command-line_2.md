@@ -1,0 +1,2 @@
+In very large projects, it is common to save files that have different purposes in distinct directories. For example, you might save IaC files for your development, staging, and production environments in different directories. When scanning such Projects, you may want to exclude some of these directories. This command scans every file with a .tf extension in the current directory and its subdirectories, except those in the prod subdirectory.
+find . -name '*.tf' -not -path './prod/*' | xargs snyk iac test

@@ -1,0 +1,1 @@
+The package-lock.json file contains detailed information about the packages and their sources in your Project. You can open this file and inspect the resolved field for each dependency to see the origin of each dependency. Packages from the public npm registry have URLs starting with https://registry.npmjs.org/.

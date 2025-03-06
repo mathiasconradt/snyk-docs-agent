@@ -1,0 +1,1 @@
+By default, only Snyk Org or Group admins can create assignments. Group admins can create custom roles by using the standard Snyk workflow. Learn more about the access controls for assignments at Snyk Learn Access Controls.

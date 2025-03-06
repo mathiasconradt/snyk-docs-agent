@@ -1,0 +1,7 @@
+| Snyk AppRisk Configuration                                                   | Outcome                                                                                                                            |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Third-party coverage and visibility configuration                            | Third-Party integration is configured in AppRisk and a policy is created to show how the new data can be processed by AppRisk.     |
+| Snyk Runtime Sensor installation                           | Install Snyk Runtime Sensor on a predetermined customer environment based on Snyk System Requirements.                             |
+| Tagging of Projects for the issues prioritization feature (up to 50 targets) | Targets imported through an SCM integration must be tagged with tags that match the CLI-imported Container Projects.               |
+| Walkthrough of prioritized issues in AppRisk                                 | Gain an understanding of how to filter and prioritize issues in the Asset Dashboard using deployed and loaded package risk factors |
+| Documentation close-out                                                      | Gain an understanding of work completed                                                                                            |

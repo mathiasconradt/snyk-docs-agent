@@ -1,0 +1,3 @@
+You can set up multiple Kubernetes runtime providers to gather relevant runtime risk factors from your current integrations. When multiple Kubernetes runtime providers report the same resources, some details, such as the Loaded package, may only be available from one of them. 
+The default provider setting is used when two or more providers report data for the same Kubernetes cluster. When the same deployment is identified, select which one should take priority. When no default provider is selected, the earliest data available is used.
+Individual providers can also be disabled here if they should not be used when calculating Insights.

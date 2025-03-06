@@ -1,0 +1,50 @@
+The setup commands for running the Broker client described in this section include the common commands used for all SCMs. Some SCMs require additional parameters for the Broker client setup, and those parameters are indicated in this section, but when you are setting up a Broker client for a specific SCM, see also the instructions for that SCM in the section Install and configure Snyk Broker.
+The following explains how to set up the Broker client in a way that does NOT display the code snippets of the Snyk Code results in the Web UI:
+Broker Client run with no display of code snippets
+To run the Broker client container, in the terminal enter the following command to launch the Snyk Broker client:
+docker run --restart=always \
+   -p <host_machine_port_no._mapped to>:<Broker_Client_container_port_ no.> \
+   -e BROKER_TOKEN=<Broker_token> \
+   -e <SCM>_TOKEN=<SCM_token> \
+   -e <SCM_domain>=<my.SCM.domain.com_(without_http/s)> \  
+   -e BROKER_CLIENT_URL=<http://my.broker.client:<host_machine_port_no.> \
+   -e PORT=<Broker_Client_container_port_no.> \
+   -e GIT_CLIENT_URL=http://<Code_Agent_container_name:Code_Agent_port_no.> \
+   --network mySnykBrokerNetwork \
+   snyk/broker:<SCM_tag>
+where:
+
+-- restart=always is a Docker command that determines that the Broker client container will always restart regardless of the exit status.
+-p <host_machine_port_no._mapped to>:<Broker_Client_container_port_ no.> is the mapping of a physical open port in the host machine to a port in the Broker client container. These port numbers on the host machine and container do not have to be the same, for example, 8001:8000.\
+  The port number of the host machine must be unique.
+-e BROKER_TOKEN is the Broker token that is associated with the specific Organization and the specific integrated SCM.
+-e <SCM_TOKEN> is the SCM token for the specific integrated SCM.
+-e <SCM_domain>= is your SCM domain name without http/https, for example, snyk.git.com. For each SCM, use the parameter for your SCM:
+GitHub - the -e <SCM_domain> parameter is NOT required.
+GitHub Enterprise: -e GITHUB\
+    For GitHub Enterprise, add the following parameters also:\
+    -e GITHUB_API=<your.ghe.domain.com/api/v3_(without_http/s)> \\
+    -e GITHUB_GRAPHQL=<your.ghe.domain.com/api_(without_http/s)> \
+Azure Repos: -e AZURE_REPOS_HOST\
+    For Azure Repos, add the following parameter also:\
+    -e AZURE_REPOS_ORG=<azure_repo_org_name> \
+Bitbucket Server/Data Center: -e BITBUCKET\
+    For Bitbucket Server/Data Center, add the following parameter also:\
+    -e BITBUCKET_API=<your.bitbucket-server.domain.com/rest/api/1.0_(without http/s)> \
+GitLab: -e GITLAB
+[Optional] -e BROKER_CLIENT_URL= is the URL to the host machine of the Broker client. The URL can include an IP address or a DNS with the port number of the host machine, for example, http://localhost:8000.\
+  Add this parameter only if you are using the same Broker client for other Snyk products, and you want to enable for them the Automatic PR Checks feature. Since the Automatic PR Checks feature is not supported for the Code Agent, you do not have to use this parameter for the Code Agent.
+-e PORT is the port number of the Broker client container, where it accepts external connections. The default is 8000. This port number must be the same as the <Broker_Client_container_port_ no.> in the -p preceding parameter.
+-e GIT_CLIENT_URLisa URL to the port of the running Code Agent container. The URL should include the name of the Code Agent container with its port number, for example, http://code-agent:3000.
+--network is the name of the Docker bridge network, which will be used for communication with the Code Agent.
+snyk/broker:<SCM_tag> is the Docker image of the Broker Client for the specific integrated SCM.
+
+When the Broker client setup is completed successfully, the following message appears in the terminal:
+
+Confirmation message for Broker Client setup
+To verify the setup and details of the Broker client container, run the following:
+docker ps
+The output is similar to the following:
+CONTAINER ID   IMAGE                     COMMAND                  CREATED             STATUS             PORTS                    NAMES
+7d9a410e7eaa   snyk/broker:azure-repos   "broker --verbose"       About an hour ago   Up About an hour   0.0.0.0:8000->8000/tcp   sweet_williams
+6216e27b8d28   snyk/code-agent           "docker-entrypoint.s…"   2 hours ago         Up 2 hours         0.0.0.0:3000->3000/tcp   code-agent

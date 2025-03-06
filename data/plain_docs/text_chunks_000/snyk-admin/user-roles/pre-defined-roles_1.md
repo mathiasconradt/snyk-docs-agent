@@ -1,0 +1,5 @@
+Roles can be managed at the Organization, Group, and Tenant level.
+Tenant-level roles do not provide entitlement to Group and Organization level roles.
+Group-level roles contain permissions at both the Organization and the Group levels. Any Organization permissions added to a Group role will be granted to all Organizations in the Group. For example, the pre-defined Group role Group Viewer grants users a selection of view permissions on the Group, and also a selection of Organization-level viewer permissions to grant users who have that role read-only access to all Organizations in the Group.
+Organization roles contain only permissions at the Organization level. Organization roles are useful for granting specific permissions for a selection of organizations.
+You can use a combination of Organization and Group-level roles to grant specific access across your all roles. For example, if you want a user to have Organization Admin access to a particular Organization, but have read-only access to the rest of the Organizations in the Group, you can grant that user the Group Viewer role at the Group level and the Organization Admin role for the Organization you choose.

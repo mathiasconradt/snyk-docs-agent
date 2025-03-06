@@ -1,0 +1,1 @@
+More information: Filter through your audit logs more efficiently with the new GA REST version of the audit logs API (product update); Retrieve audit logs of user-initiated activity by API for an Org or Group

@@ -1,0 +1,1 @@
+For Snyk to be able to send webhooks to the Lambda function you will need a public URL exposing the function. To do this you have two options, API Gateway or a Lambda function URL. Choose the option that suits your current environments or needs the best.

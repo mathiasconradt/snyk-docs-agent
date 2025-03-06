@@ -1,0 +1,1 @@
+Snyk can automatically create pull requests (PRs) on your behalf to upgrade your dependencies based on scan results. This is compatible with a variety of Snyk integrations. For more information, see Upgrade open source dependencies with automatic PRs.

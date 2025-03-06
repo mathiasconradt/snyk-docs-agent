@@ -1,0 +1,1 @@
+Ensure employees complete training on new regulatory requirements. Admins can create assignments that cover the effective period of new regulations, including content required by compliance. The admin can use the progress reset feature to reset previous progress and mandate updated training.

@@ -1,0 +1,1 @@
+Scan automatically on stat-up and save: Specify whether to enable automatic scanning. Regardless of this setting, you may run a scan manually at any time. For details, see Run an analysis with Visual Studio extension.

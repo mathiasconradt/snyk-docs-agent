@@ -1,0 +1,1 @@
+Introducing Snyk to your developers is the first step in building awareness of Snyk functions and how your developers can get the most out of Snyk. Typically, Snyk recommends disabling many of the potentially more intrusive features, for example, automatically raising PRs, until your teams are comfortable with Snyk use and results.

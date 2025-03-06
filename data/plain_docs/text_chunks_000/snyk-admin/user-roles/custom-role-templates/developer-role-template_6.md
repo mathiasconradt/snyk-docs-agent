@@ -1,0 +1,17 @@
+PermissionEnabled?View environmentsfalseCreate environmentsfalseDelete environmentsfalseUpdate environmentsfalseView scanstrueCreate scanstrueView resourcesfalseView artifactsfalseCreate artifactsfalseView Custom RulesfalseCreate Custom RulesfalseEdit Custom RulesfalseDelete Custom Rulesfalse
+The remaining categories of permissions listed below should have all permissions within them set to disabled:
+
+Audit Log management
+Billing management
+Collection management
+Container Image management
+Entitlement management
+Integration management
+Kubernetes Integration management
+Package management
+Reports management
+Service account management
+Snyk Apps management
+Snyk Preview management
+User management
+Webhook management

@@ -1,0 +1,3 @@
+When Snyk scans a cloud environment, it tests infrastructure configurations against a comprehensive set of security rules. These rules identify misconfigurations that can lead to security problems. For example, Snyk can scan the configuration of an Amazon Web Services (AWS) S3 bucket to see if it is publicly readable, and so vulnerable to a data breach.
+Any IaC or cloud misconfiguration Snyk finds is reported as an issue. The cloud issues page in the Snyk Web UI provides details about each issue, including status, severity, impact, associated resources, and other information.
+Cloud issues page in the Web UI

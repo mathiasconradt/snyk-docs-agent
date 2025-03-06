@@ -1,0 +1,1 @@
+Change the directory path used for iac describe configuration (default $HOME). This can be useful, for example, if you want to invoke this command in an AWS Lambda function where you can only use the /tmp folder.

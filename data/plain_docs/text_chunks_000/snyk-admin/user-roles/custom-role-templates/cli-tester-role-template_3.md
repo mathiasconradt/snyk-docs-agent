@@ -1,0 +1,1 @@
+PermissionEnabled?View ProjecttrueAdd ProjecttrueEdit ProjectfalseEdit Project statusfalseTest ProjecttrueMove ProjectfalseRemove ProjectfalseView Project historyfalseEdit Project integrationsfalseEdit Project attributesfalseView Jira issuesfalseCreate Jira issuesfalseEdit Project Tagsfalse

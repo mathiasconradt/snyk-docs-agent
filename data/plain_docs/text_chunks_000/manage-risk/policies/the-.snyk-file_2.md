@@ -1,0 +1,2 @@
+Generally, you must ensure the .snyk file is created in the code repository, the same as other applications and build resources.
+The .snyk file is generally located at the root of your Project. However, for SCM imports, the .snyk file must be in the same directory as any file needed for scanning to which it relates, for example, a manifest file. See Use the .snyk file with monorepos and complex Projects.

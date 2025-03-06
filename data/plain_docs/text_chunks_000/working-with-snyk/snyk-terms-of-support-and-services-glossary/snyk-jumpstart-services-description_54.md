@@ -1,0 +1,1 @@
+The Snyk Consultant will work with the Customer to configure the Scanning Agent using Docker, Docker-Compose, or Kubernetes. This is required only if there are Targets to be scanned that are not internet-accessible, and there is a maximum of one agent to be configured.

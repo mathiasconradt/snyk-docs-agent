@@ -1,0 +1,1 @@
+The final step for the integration process is to get the ID of the Snyk Organization the user has authorized. This ID is needed to use most API endpoints, so the App must associate it with the user's account or workspace for future use.

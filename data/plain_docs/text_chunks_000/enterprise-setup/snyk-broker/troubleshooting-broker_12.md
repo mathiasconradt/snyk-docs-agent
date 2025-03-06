@@ -1,0 +1,2 @@
+Communication with the on-premise Git is not functioning. There will be a 404 error on the attempt to clone the code If there is any reference to SSL This can be caused by a self-signed certificate. Ensure you have mounted the correct certificate or use the flag -e NODE_TLS_REJECT_UNAUTHORIZED=0
+If you see the message: “Uploaded Repo”, the Code Agent and Broker are configured correctly. If there are still errors on the import log, contact Snyk Support.

@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# IDE
+.idea
+
+#Logs folder
+logs
+
+#Chroma
+vector_stores/chroma
+
 # Distribution / packaging
 .Python
 build/

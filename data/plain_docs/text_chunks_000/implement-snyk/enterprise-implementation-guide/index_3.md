@@ -1,0 +1,2 @@
+Next is the prevention stage; stopping new security issues from being added to your applications. During this stage, you can put controls in place to allow developers to see issues in their pipelines using Pull Request (PR)/Merge Request (MR) checks, and checks in the pipeline that may block. 
+As part of this, developers may use IDE plugins and other tools like Snyk Advisor to select secure packages and Snyk Learn to educate on secure coding, security, and the product.

@@ -1,0 +1,1 @@
+Using the information on this page is not required to set up Broker Client integrations. You may use a derived Docker image to set up a Broker Client integration. This is an alternative to running the command explained in the instructions for setting up each integration.

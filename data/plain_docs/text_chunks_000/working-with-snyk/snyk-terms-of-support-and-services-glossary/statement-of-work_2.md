@@ -1,0 +1,3 @@
+Use vase validation: Discuss your specific needs with your Snyk Account Executive. Depending on your requirements, a scoping call with a Snyk Professional Services Consultant may be required.
+Schedule and use hours: Snyk Consulting Services will work with you to schedule and allocate hours to specific services as needed to address your challenges, such as integrating Snyk, conducting consulting engagements, or training your development teams. Expected lead-time is two to four weeks on average for most services. 
+Track usage: Snyk Consulting Services will monitor your remaining balance throughout the contract period.

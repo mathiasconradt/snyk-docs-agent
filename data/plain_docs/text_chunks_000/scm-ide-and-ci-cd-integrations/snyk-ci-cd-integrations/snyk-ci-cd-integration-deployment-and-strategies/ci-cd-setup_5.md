@@ -1,0 +1,1 @@
+To continuously avoid known vulnerabilities in your dependencies, integrate Snyk into your continuous integration (build) system. In addition to this documentation, see the integration configuration examples in the Snyk Labs GitHub repository.

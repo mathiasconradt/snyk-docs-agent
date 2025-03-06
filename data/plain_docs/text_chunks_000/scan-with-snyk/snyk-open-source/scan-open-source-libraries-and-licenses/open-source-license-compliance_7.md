@@ -1,0 +1,2 @@
+In some cases, the developer specifies one license type in the source repository (for example, GitHub, GitLab) and another when releasing the package (for example, to npm, pypi). Snyk ensures the accuracy of license information by examining the package manager's license definition to verify that the licenses match the released package. If the developer did not define the licenses in the package manager, this could result in none or unknown values.
+Note that this behavior may change as Snyk works on improving the license detection processes.

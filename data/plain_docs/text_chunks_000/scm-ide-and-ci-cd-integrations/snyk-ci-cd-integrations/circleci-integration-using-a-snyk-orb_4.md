@@ -1,0 +1,1 @@
+Optionally, if the build completes successfully and MONITOR is set to True in the Snyk step, then Snyk saves a snapshot of the project dependencies from the Snyk Web UI. From the Snyk Web UI you can view the dependency tree displaying all of the issues, and you can receive alerts for new issues found in the existing app version.

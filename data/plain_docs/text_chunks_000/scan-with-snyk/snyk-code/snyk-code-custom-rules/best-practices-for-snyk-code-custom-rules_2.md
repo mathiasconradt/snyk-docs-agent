@@ -1,0 +1,1 @@
+A query works at a point in time whenever you execute it, whereas a rule needs to work for all future cases. To ensure future-proof rules, testing them against foreign code like open source Projects is a good idea. This hardens the query toward different coding styles or libraries used. This could be useful if your business acquired another one and you must merge the codebases.

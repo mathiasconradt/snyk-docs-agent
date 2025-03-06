@@ -1,0 +1,2 @@
+Business value
+This section demonstrate how you can discover the adoption of Snyk IDE & CLI tests by your developers. Implementing AppSec testing during the development phase is regarded as one of the most cost-effective methods for preventing new security risks from reaching production. It is more efficient because developers are already in the right context to address issues before the code progresses further in the SDLC. Detecting issues in later stages requires developers to switch context and revisit the problem, which can be less efficient and more time-consuming.

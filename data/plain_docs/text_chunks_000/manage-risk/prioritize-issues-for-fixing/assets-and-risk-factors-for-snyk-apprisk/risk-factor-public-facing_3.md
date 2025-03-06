@@ -1,0 +1,5 @@
+The Kubernetes Connector continuously monitors the Kubernetes events. These events are streamed to the Snyk platform continuously. 
+Every hour, the data pipeline performs a reconciliation of the state of the cluster to create a snapshot. This snapshot is used to compute the network relationship between various resources, such as services to pods and ingresses to services. The same snapshot is used to extrapolate which images are running at that time.
+The analysis is performed only based on the connectivity specification. The granularity of the analysis is performed on port and http path levels. Various constraints may be applied to configured paths, such as network policies, security groups, and firewalls. Snyk does not include the constraints in the computation. 
+At the same interval, the data pipeline takes a snapshot of all Snyk Projects and data sources and extrapolates packages and images. This snapshot is used to determine which images and packages are known to Snyk for any given customer. 
+Both snapshots are then compared, and evidence graphs are generated to determine the public-facing factors at that point in time.

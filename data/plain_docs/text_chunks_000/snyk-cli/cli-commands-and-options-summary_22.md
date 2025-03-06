@@ -1,0 +1,7 @@
+--app-vulns: container test, container monitor
+--exclude-app-vulns: container test, container monitor, container sbom
+--nested-jars-depth: container test, container monitor
+--exclude-base-image-vulns: container test, container monitor
+--platform=<PLATFORM>: container test, container monitor
+--username=<CONTAINER_REGISTRY_USERNAME>: container test, container monitor
+--password=<CONTAINER_REGISTRY_PASSWORD>: container test, container monitor

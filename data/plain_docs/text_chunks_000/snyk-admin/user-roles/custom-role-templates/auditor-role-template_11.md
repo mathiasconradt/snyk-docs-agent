@@ -1,0 +1,1 @@
+PermissionEnabled?View CollectionstrueCreate CollectionfalseEdit CollectionsfalseDelete Collectionsfalse

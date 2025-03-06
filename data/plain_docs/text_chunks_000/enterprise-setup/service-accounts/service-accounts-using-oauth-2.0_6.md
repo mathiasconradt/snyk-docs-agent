@@ -1,0 +1,2 @@
+Service accounts can also use the private_key_jwt form of client_assertion for authentication, as defined in the OIDC Core 1.0 spec, rather than the more traditional client_secret.
+This is an advanced feature for customers who have the infrastructure to host a publicly accessible JWKS endpoint and manage public and private signing keys. It creates an added layer of security for OAuth service accounts by requiring access token requests to be sent in the form of signed JWTs rather than with a simple client_id and client_secret pair in a request body.

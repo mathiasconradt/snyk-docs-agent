@@ -1,0 +1,1 @@
+For some Open Source Projects, you must build the Project before testing it with the Snyk CLI. Review the Snyk documentation to determine whether Snyk requires your Project to be built before running an Open Source scan; then follow the instructions in the corresponding section below:

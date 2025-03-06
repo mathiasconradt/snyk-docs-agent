@@ -1,0 +1,2 @@
+When you run commands with the CLI such as snyk monitor and snyk test, Snyk uses your default organization, which was created when you first registered for an account. If you want commands to run against a different organization, you can specify that organization either globally or individually.
+The Snyk CLI help specifies using --org=<ORG_ID>; this article specifies using the orgslugname. The ORG_ID works in both the CLI and the API. The organization slug name works in the CLI, but not in the API.

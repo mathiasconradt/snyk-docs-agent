@@ -1,0 +1,3 @@
+8x5: Snyk Technical Support Engineers actively respond to tickets within the Customer's local business hours, Monday to Friday.
+24x5: Snyk Technical Support Engineers actively respond to tickets 24 hours a day, Monday to Friday in the Customer's local time zone.
+24x7: Snyk Technical Support Engineers actively respond to tickets 24 hours a day, Monday to Friday. In addition, for urgent customer issues outside of 24x5, Snyk provides a 24-hour support telephone number. This is served by a telephone answering service which routes the request to Snyk on-call engineers. 24x7 support will be provided in English unless during business hours.

@@ -1,0 +1,3 @@
+Any user that is granted a role in an Organization within the SSO without an explicit Group-level role in the role assertion, will also be implicitly assigned the Group Member Group-level role for that Group. This is the pre-defined Group-level role with the fewest permissions and ensures that the user becomes a member of the Group.
+
+If custom mapping is enabled you will receive a Tenant Member role on log in. Snyk recommends you amend this where appropriate to ensure any Tenant level roles are added where needed. For example, if a user is a Tenant Admin they should be included in the mapping to ensure they are assigned the correct role on log in.

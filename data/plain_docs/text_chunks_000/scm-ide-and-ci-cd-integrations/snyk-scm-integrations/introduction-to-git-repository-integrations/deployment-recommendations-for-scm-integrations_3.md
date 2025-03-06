@@ -1,0 +1,2 @@
+Operations triggered using the Snyk UI, such as opening a Fix PR or retesting a Project, are performed for the acting user. Thus to perform these operations, you must connect your own SCM user or service account. This gives Snyk the required permissions for the repositories where you want to perform these operations.
+For details on these permissions, see User permissions and access scope requirements for your chosen SCM integration.

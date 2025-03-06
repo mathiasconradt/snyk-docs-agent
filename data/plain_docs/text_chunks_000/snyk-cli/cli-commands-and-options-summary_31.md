@@ -1,0 +1,1 @@
+--strict-out-of-sync=true|false: test, monitor, sbom

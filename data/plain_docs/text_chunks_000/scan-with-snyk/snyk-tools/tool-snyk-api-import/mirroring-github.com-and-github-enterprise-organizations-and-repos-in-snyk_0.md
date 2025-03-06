@@ -1,0 +1,1 @@
+You can use four commands in the available utilities to import the entirety of GitHub and GitHub Enterprise repositories into Snyk. You must configure both the GitHub token and the Snyk token as environment variables to proceed.

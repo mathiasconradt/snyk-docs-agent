@@ -1,0 +1,1 @@
+If a vulnerability is detected in code, filename, or folder with the word test, it is deemed a low-severity vulnerability. This applies to all languages. The severity of CWEs may change depending on the environment.

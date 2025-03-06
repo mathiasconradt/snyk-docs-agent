@@ -1,0 +1,4 @@
+Bazel does not have dependency manifest files or lock files that package managers such as npm have. Instead, build configuration is managed in BUILD files, using Starlark, a domain-specific language based on Python3.
+You must often manually specify all dependencies (package name, location, and version), including transitive dependencies, which can then be fetched by Bazel during builds.
+Bazel has limited native integration with package registries such as npmjs.org or Maven Central. Some Bazel rules can be added to help with installing dependencies from external registries, for example, from Maven.
+Because Bazel dependencies are specified as code in BUILD files using Starlark, Snyk cannot easily discover the dependencies from a Project. For information about testing and monitoring Bazel Projects using Snyk, see the page Dep Graph API.

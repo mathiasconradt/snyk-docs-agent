@@ -1,0 +1,1 @@
+Snyk integration with Terraform Enterprise works exactly the same way as Snyk integration for Terraform Cloud. See the Snyk integration for Terraform Cloud page for details about how to set up the integration.

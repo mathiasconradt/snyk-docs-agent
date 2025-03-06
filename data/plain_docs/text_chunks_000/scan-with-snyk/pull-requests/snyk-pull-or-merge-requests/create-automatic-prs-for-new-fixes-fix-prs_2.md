@@ -1,0 +1,2 @@
+For every new actionable vulnerability found on each recurring test, Snyk raises a Fix PR. This may not be ideal depending on the velocity you are looking for in your organization, so setting up specific criteria to match your needs can be achieved through setting thresholds.
+To decide which automatic Fix PRs are visible to you, you can set a custom threshold for Score or Severity. You will have either Risk or Priority Score available in the dropdown depending on which is configured for your Organization.

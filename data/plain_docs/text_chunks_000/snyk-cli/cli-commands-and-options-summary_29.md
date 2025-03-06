@@ -1,0 +1,5 @@
+--sub-project=<NAME>, --gradle-sub-project=<NAME>: test, monitor
+--all-sub-projects: test, monitor
+--configuration-matching=<CONFIGURATION_REGEX>: test, monitor
+--configuration-attributes=<ATTRIBUTE>[,<ATTRIBUTE>]...: test, monitor
+--init-script=<FILE: test, monitor

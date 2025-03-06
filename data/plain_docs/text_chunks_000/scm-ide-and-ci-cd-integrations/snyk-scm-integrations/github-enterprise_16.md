@@ -1,0 +1,1 @@
+If you used GitHub Apps for your SCM integrations at the Snyk Organization level, Snyk Essentials requires an overview of your GitHub Organization. This means that the GitHub integration in Snyk Essentials uses an API token as an authentication method to onboard your GitHub Organization.

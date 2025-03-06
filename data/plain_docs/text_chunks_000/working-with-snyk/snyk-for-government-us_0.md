@@ -1,0 +1,4 @@
+Snyk for Government (US) enables US federal agencies to develop fast and securely. By integrating with tools and workflows that developers already use, Snyk for Government (US) allows these agencies to shift left in their Software Development Lifecycle, enabling secure development from the start.
+Because Snyk for Government (US) adheres to the FedRAMP and NIST security control requirements, federal agencies can be assured that the product complies with the security standards set forth by the US Government.
+Snyk for Government (US) has differences from standard Snyk products that allow Snyk to be deployed to the US federal government. Adhering to FedRAMP and NIST control requirements means that some aspects of standard Snyk products are not supported in the FedRAMP environment.
+This list identifies all the areas with differences in functionality in the Snyk for Government (US) product.

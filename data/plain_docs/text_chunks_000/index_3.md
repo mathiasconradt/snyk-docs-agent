@@ -1,0 +1,2 @@
+| Scan with SnykScan your code, open-source libraries, infrastructure, and containers | Scan with Snyk CLIScan with Snyk locally on your command line |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |

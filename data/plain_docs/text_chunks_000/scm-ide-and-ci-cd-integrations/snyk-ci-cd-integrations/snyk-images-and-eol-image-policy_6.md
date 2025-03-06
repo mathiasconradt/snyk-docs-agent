@@ -1,0 +1,2 @@
+Snyk does not remove images from Docker Hub once the images are published. Users should check the endoflife.date website to ensure their build pipelines are not using EOL software.  Snyk will not issue warnings about an image becoming EOL.
+Snyk follows a phased approach to building, maintaining, and discontinuing maintenance of an image. The phases are Creation, Active support and maintenance, and End of Life (EOL).

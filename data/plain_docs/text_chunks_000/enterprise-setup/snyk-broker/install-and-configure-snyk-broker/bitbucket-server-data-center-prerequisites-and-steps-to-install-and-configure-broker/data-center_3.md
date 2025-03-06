@@ -1,0 +1,3 @@
+The following explains how to configure Snyk Broker to use the Broker Client with a Bitbucket Server deployment using a Personal Access Token (PAT).
+To use the Snyk Broker Client with BitBucket, run docker pull snyk/broker:bitbucket-server-bearer-auth. For definitions of the environment variables, refer to Bitbucket Server/Data Center - environment variables for Snyk Broker Basic Auth and Bitbucket Server/Data Center - environment variables for Snyk Broker Personal Access Token (PAT).
+If necessary, go to the Advanced configuration page and make any configuration changes needed, such as providing the CA (Certificate Authority) to the Broker Client configuration if the Bitbucket instance is using a private certificate, and setting up proxy support.

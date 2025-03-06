@@ -1,0 +1,2 @@
+Snyk Open Source scans your manifest files. Based on the scan, Snyk creates a hierarchical tree of the structure represented in the manifest file: both its direct and indirect (transitive) dependencies and the points at which the different packages are introduced.
+After this tree is built, Snyk uses its vulnerability database to find vulnerabilities in any of the packages anywhere in the dependency tree. Using Snyk makes it easier to analyze the Project than fix the Project from its source. You can quickly identify the point at which any vulnerable package was introduced.

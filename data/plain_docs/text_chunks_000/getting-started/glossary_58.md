@@ -1,0 +1,1 @@
+Assess the risk for each app based on the application context and conduct best-in-class security analysis. Provide fix guidance to direct developer remediation efforts towards the most critical business issues.

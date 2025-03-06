@@ -1,0 +1,2 @@
+The supported languages work with the following integrations:
+LanguageContainer RegistryCLIKubernetesNodeYesYesYesRubyYesPHPYesYesYesPythonYesYesYesGo BinariesYesYesYesJavaYesYesYes

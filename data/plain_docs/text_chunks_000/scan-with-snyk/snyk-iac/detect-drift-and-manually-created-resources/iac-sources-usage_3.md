@@ -1,0 +1,6 @@
+To access state from Azure Blob Storage, define the following environment variables:
+$ export AZURE_STORAGE_ACCOUNT=...
+$ export AZURE_STORAGE_KEY=...
+$ snyk iac describe --from="tfstate+azurerm://my-container/terraform.tfstate"
+You can find these values in your Azure console, as shown in the following screenshot:
+Azure storage environment variables

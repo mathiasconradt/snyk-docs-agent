@@ -1,0 +1,1 @@
+The error codes in the table below describe the codes that you may encounter while working with the Snyk API or CLI. When errors are encountered using the API, they will also have an appropriate HTTP status code. If you encounter errors without an error code, use the HTTP status code to determine the appropriate action.

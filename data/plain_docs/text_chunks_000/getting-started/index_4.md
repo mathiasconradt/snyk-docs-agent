@@ -1,0 +1,2 @@
+After creating a Snyk account, you can follow the optional getting started walkthrough prompts to provide information and help Snyk guide your experience. This includes choosing an integration method, setting access permissions, configuring automation settings, and authenticating that integration.
+Alternatively, if you want to scan your code without authenticating to your source code repository, you can select the CLI integration. This allows you to run scans from your local machine and upload results to your Organization in Snyk.
